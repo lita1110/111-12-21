@@ -32,7 +32,6 @@ experience:
     description: |2-
         * 就讀人類發展與心理學系
         * 喜歡打羽球
-        * 
 
   - title:  Chungming Senior High School
     company: Senior High School
