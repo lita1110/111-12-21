@@ -44,7 +44,7 @@ bio: 若對我的內容感興趣或者有疑惑,歡迎私訊我讓我知道~
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "111516114@gms.tcu.edu.tw".
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/wowchemy
